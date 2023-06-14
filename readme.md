@@ -1,3 +1,5 @@
+![Tela de Login](records/login.gif)
+
 # Aplicativo de Login e Estoque de Produtos :key::package:
 
 Este é um aplicativo de exemplo que demonstra um sistema de login e gerenciamento de estoque de produtos. O objetivo é ilustrar o uso da arquitetura Model-View-Presenter (MVP) no desenvolvimento de aplicativos Android nativos utilizando a linguagem Java. :iphone:
